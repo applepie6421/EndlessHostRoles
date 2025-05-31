@@ -12,7 +12,7 @@
 > This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or
 > otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
 > <br>
-> This is not a cheat, it's a mod that adds new roles and features to the game. If you have questions, ask in our
+> This is not a cheat,,, it's a mod that adds new roles and features to the game. If you have questions, ask in our
 > Discord server.
 <br>
 
